@@ -1,8 +1,9 @@
 {
-  "latest_version": "1.2.0",
-  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.0/Create2XML-1.2.0.exe",
-  "update_notes": "- JBNT 추가\n- GUI 구현"
+  "latest_version": "1.2.1",
+  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.1/Create2XML-1.2.1.exe",
+  "update_notes": "- rhj custom-meta  doi invaild 삭제"
 }
+
 
 
 
