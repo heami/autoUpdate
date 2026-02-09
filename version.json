@@ -1,8 +1,9 @@
 {
-  "latest_version": "1.2.1",
-  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.1/Create2XML-1.2.1.exe",
-  "update_notes": "- rhj custom-meta  doi invaild 삭제"
+  "latest_version": "1.2.2",
+  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.2/Create2XML-1.2.2.exe",
+  "update_notes": "- 색인용 xml 작업중 본문내 참고문헌 인용 풀어쓰는 곳에서 에러나서 수정함"
 }
+
 
 
 
