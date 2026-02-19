@@ -1,8 +1,9 @@
 {
-  "latest_version": "1.2.2",
-  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.2/Create2XML-1.2.2.exe",
-  "update_notes": "- 색인용 xml 작업중 본문내 참고문헌 인용 풀어쓰는 곳에서 에러나서 수정함"
+  "latest_version": "1.2.3",
+  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.3/Create2XML-1.2.3.exe",
+  "update_notes": "- GUI 구현 창에서 registy.rdf 업데이트 시 출력 오류로 멈추는 현상 수정"
 }
+
 
 
 
