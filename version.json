@@ -1,8 +1,9 @@
 {
-  "latest_version": "1.2.3",
-  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.3/Create2XML-1.2.3.exe",
-  "update_notes": "- GUI 구현 창에서 registy.rdf 업데이트 시 출력 오류로 멈추는 현상 수정"
+  "latest_version": "1.2.4",
+  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.4/Create2XML-1.2.4.exe",
+  "update_notes": "- JBNT ISSN 정보 업데이트"
 }
+
 
 
 
