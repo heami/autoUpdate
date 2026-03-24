@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.2.5",
-  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.5/Create2XML-1.2.5.exe",
-  "update_notes": "- BNR, EBP DOI 보이도록 수정"
+  "latest_version": "1.2.6",
+  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.6/Create2XML-1.2.6.exe",
+  "update_notes": "- Ref XML Syband 페이지 돌릴 때 시간 지연 추가"
 }
 
 
