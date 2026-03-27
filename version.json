@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.2.7",
-  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.7/Create2XML-1.2.7.exe",
-  "update_notes": "- AW Biographical Note 저자명 뒤에 띄어쓰기 삭제 복구"
+  "latest_version": "1.2.8",
+  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.8/Create2XML-1.2.8.exe",
+  "update_notes": "- FSBH Publisher 명칭 변경"
 }
 
 
