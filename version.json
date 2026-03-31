@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.2.8",
-  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.8/Create2XML-1.2.8.exe",
-  "update_notes": "- FSBH Publisher 명칭 변경"
+  "latest_version": "1.2.9",
+  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.9/Create2XML-1.2.9.exe",
+  "update_notes": "- FSBH eissn 정보 삭제, DHR doi invaild 삭제"
 }
 
 
