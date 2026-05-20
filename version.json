@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.2.9",
-  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.2.9/Create2XML-1.2.9.exe",
-  "update_notes": "- FSBH eissn 정보 삭제, DHR doi invaild 삭제"
+  "latest_version": "1.3.0",
+  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.3.0/Create2XML-1.3.0.exe",
+  "update_notes": "- Permission data 로드 방식 변경. Excel -> github json "
 }
 
 
