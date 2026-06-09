@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.3.1",
-  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.3.1/Create2XML-1.3.1.exe",
-  "update_notes": "- Registry 업데이트 오류 수정.\\n- Funding 문구가 펀딩이 없다는 내용일 시 건너뜀."
+  "latest_version": "1.3.2",
+  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.3.2/Create2XML-1.3.2.exe",
+  "update_notes": "- JGO suppl 확장자 doc으로 고정"
 }
 
 
