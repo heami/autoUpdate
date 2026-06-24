@@ -304,12 +304,12 @@
         "pissn": "1229-845X",
         "eissn": "1976-555X",
         "publisherName": "The Korean Society of Veterinary Science",
-        "copyrightStatement": "© 2026 The Korean Society of Veterinary Science",
+        "copyrightStatement": "© 2026 The Author(s). Published by The Korean Society of Veterinary Science.",
         "copyrightHolder": "The Korean Society of Veterinary Science",
-        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0",
-        "licensePText1": "This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (",
-        "licensePTextUrl": "https://creativecommons.org/licenses/by-nc/4.0",
-        "licensePText2": ") which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited."
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "licensePText1": "This is an Open Access article distributed under the terms of the Creative Commons Attribution 4.0 International License (",
+        "licensePTextUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "licensePText2": ") which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited."
     },
     "KCJ": {
         "journalTitle": "Korean Circulation Journal",
