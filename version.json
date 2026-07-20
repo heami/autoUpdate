@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.3.2",
-  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.3.2/Create2XML-1.3.2.exe",
-  "update_notes": "- JGO suppl 확장자 doc으로 고정"
+  "latest_version": "1.3.4",
+  "download_url": "https://github.com/heami/autoUpdate/releases/download/v1.3.4/Create2XML-1.3.4.exe",
+  "update_notes": "- Funding 패스 인식 문구 추가"
 }
 
 
